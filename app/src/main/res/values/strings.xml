@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas1 DZIKRY ALFIAN</string>
+    <string name="gravity_start">gravity = start</string>
+    <string name="gravity_center">gravity = center</string>
+    <string name="gravity_center_horizontal">gravity = center horizontal</string>
+    <string name="gravity_end">gravity = end</string>
+    <string name="layout_gravity_center">layout_gravity = center</string>
+    <string name="layout_gravity_start">layout_gravity = start</string>
+    <string name="layout_gravity_end">layout_gravity = end</string>
+    <string name="nama_saya">Tri Ilman A. Fattah</string>
+    <string name="horizontal">horizontal</string>
+</resources>
